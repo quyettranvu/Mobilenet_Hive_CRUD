@@ -7,6 +7,7 @@ Technology and language
 * Flutter
 * SharedPreferences
 * Hive/HiveBox
+* Tensoflow Hub / Tensorflow Lite model
 * Android Studio
 
 Member 
