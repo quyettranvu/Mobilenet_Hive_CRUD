@@ -1,16 +1,19 @@
-# face_recognition_flutter
+GYM TASKS MANAGEMENT ON MOBILE APP WITH FLUTTER AND INTEGRATED WITH HIVE/HIVEBOX
 
-A new Flutter project.
+Demo Youtube
 
-## Getting Started
+Technology and language
 
-This project is a starting point for a Flutter application.
+Dart
+Flutter
+SharedPreferences
+Hive/HiveBox
+Android Studio
 
-A few resources to get you started if this is your first Flutter project:
+Member 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Trần Vũ Quyết(quyettranvu) 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Thanks
+
+PH. D. Тарасов А.Г., Moscow Stankin University for supporting me in many ways. Today(13/06/2023) I have successfully defended my university graduation thesis and I will continue to try and make more efforts in the upcoming journey, wish you always healthy and happy <3<3<3
