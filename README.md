@@ -1,6 +1,6 @@
 GYM TASKS MANAGEMENT ON MOBILE APP WITH FLUTTER AND INTEGRATED WITH HIVE/HIVEBOX
 
-Demo Youtube
+Demo: https://youtu.be/sD8LBDQfKwM
 
 Technology and language
 * Dart 
